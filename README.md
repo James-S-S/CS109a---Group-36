@@ -20,7 +20,7 @@ In this notebook, we:
   
 By combining the Kaggle dataset and API-scraped data, we create a comprehensive dataset spanning from 1980 to 2024.
 
-## 3. `stock_market_data.ipynb`
+## 3. `stock_market_analysis.ipynb`
 
 **Objective**: Retrieve and explore historical stock market data to analyze market behavior over time.
 
